@@ -1,0 +1,69 @@
+#convert {
+    background-color: #bba768;
+  }
+  #convert:hover {
+    background-color: #bcc768;
+  }
+  h1 {
+      text-align: center;
+      margin-top: 50px;
+    font-family: sans-serif;
+    color: #70b2e5;
+  }
+  input {
+    display: block;
+    padding: 10px;
+    margin-top: 30px;
+    font-size: 2em;
+    color: #4b4239;
+    font-family: cursive, sans-serif;
+    margin-left: 80px;
+    width: 350px;
+  }
+  ::-webkit-input-placeholder {
+     color: rgb(172, 165, 165);
+  }
+  :-moz-placeholder { /* Firefox 18- */
+     color: #ccc;  
+  }
+  ::-moz-placeholder {  /* Firefox 19+ */
+     color: #ccc;  
+  }
+  :-ms-input-placeholder {  
+     color: #ccc;  
+  }
+  button#convert{
+    padding: 10px;
+    font-size: 1.2em;
+    color: #221e1e;
+    margin-left: 111px;
+    margin-top: 50px;
+    border-radius: 14px;
+  }
+  button#clear {
+    padding:  10px ;
+    font-size: 1.2em;
+    color: #1f1818;
+    margin-left: 120px;
+    margin-top: 20px;
+    border-radius: 11px;
+  }
+  #clear{
+    background-color: #bba768;
+  }
+  #clear:hover {
+    background-color: #bcc768;
+  }
+  .c{
+      border: 2px solid gray;
+      width: 500px;
+      height: 500px;
+      margin-left: 450px;
+      margin-top: 100px;
+      border-radius: 40px;
+      background-color: rgb(68, 41, 55);
+  }
+  body{
+      /* background-image: url(\backimg1.jpg.jpeg); */
+      background-color: #686763;
+  }
